@@ -3,7 +3,7 @@ In this project, let's build a **Prime Video** by applying the concepts we have 
 ### Refer to the video below:
 
 
-https://user-images.githubusercontent.com/37910008/234554076-5f11e3b4-c522-41fe-88a8-7602299137ea.mp4
+
 
 
 
